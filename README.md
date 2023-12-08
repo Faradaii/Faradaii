@@ -1,11 +1,13 @@
 <h1 align="center">Hi there 👋</h1>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
-  
+<img align="right" alt="GIF" src="https://github.com/Faradaii/Faradaii/assets/114233356/cb15e435-1430-491e-8a5c-45a516e473b2" width="320px"/>
+
+
 Hello! I'm Faradaii. Currently, I'm delving into the fascinating world of programming, exploring various languages to enhance my skills. My main passion lies in web development, and I take great pleasure in crafting dynamic and user-friendly websites.
 
 - 🔭   I’m currently studying at Bali State Polytechnic
 - 🌱   I’m currently learning React;
+
 - 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/faradaii">Github</a>
 - 📫   Feel free to ping me on <a href="https://linkedin.com/in/kadek-faraday-107665251" target="_blank"> LinkedIn </a>
 
