@@ -16,14 +16,20 @@ Hello! I'm Faradaii. Currently, I'm delving into the fascinating world of progra
 <a href="https://linkedin.com/in/kadek-faraday" target="_blank"><img align="left" alt="Kadek Faraday | LinkedIn" width="30px" src="https://github.com/Faradaii/Faradaii/assets/114233356/193db9fe-0f22-4b42-8fc2-6ba31ef0dd59" /> </a>
 <a href="https://dribbble.com/par_d" target="_blank"><img align="left" alt="Faradaii | Dribbble" width="30px" src="https://github.com/Faradaii/Faradaii/assets/114233356/a050ad64-2558-43f4-8bfc-0d606285b0ce" /> </a>
 <a href="https://instagram.com/k.tfrdy" target="_blank"><img align="left" alt="Faradaii | Dribbble" width="30px" src="https://github.com/Faradaii/Faradaii/assets/114233356/ac409bbf-7ae5-479b-9634-c570f5107c6d" /></a>
-
-
-<br/>
+<br />
+<br />
+**💻 Tech Stack**
+<br />
+<br />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 <br/>
 <h1 align="center">Github Statistic</h1>
 <p align="center">
 <a href="https://github.com/Faradaii">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faradaii&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faradaii&layout=compact&theme=dark"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faradaii&theme=highcontrast&hide_border=false)"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faradaii&layout=compact&theme=highcontrast"/>
+   
 </a>
 </p>
+
+
