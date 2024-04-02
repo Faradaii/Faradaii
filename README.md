@@ -28,7 +28,7 @@ Hello! I'm Faradaii. Currently, I'm delving into the fascinating world of progra
 <a href="https://github.com/Faradaii">
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faradaii&theme=highcontrast&hide_border=false)"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faradaii&layout=compact&theme=highcontrast"/>
-   
+   https://raw.githubusercontent.com/faradaii/faradaii/output/github-contribution-grid-snake-dark.svg
 </a>
 </p>
 
