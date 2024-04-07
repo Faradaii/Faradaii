@@ -6,7 +6,7 @@
 Hello! I'm Faradaii. Currently, I'm delving into the fascinating world of programming, exploring various languages to enhance my skills. My main passion lies in web development, and I take great pleasure in crafting dynamic and user-friendly websites.
 
 - 🔭   I’m currently studying at Bali State Polytechnic
-- 🌱   I’m currently learning React;
+- 🌱   I’m currently learning React, Flutter;
 
 - 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/faradaii">Github</a>
 - 📫   Feel free to ping me on <a href="https://linkedin.com/in/kadek-faraday" target="_blank"> LinkedIn </a>
