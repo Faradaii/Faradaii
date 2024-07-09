@@ -3,11 +3,10 @@
 <img align="right" alt="GIF" src="https://github.com/Faradaii/Faradaii/assets/114233356/cb15e435-1430-491e-8a5c-45a516e473b2" width="320px"/>
 
 
-Hello! I'm Faradaii. Currently, I'm delving into the fascinating world of programming, exploring various languages to enhance my skills. My main passion lies in web development, and I take great pleasure in crafting dynamic and user-friendly websites.
+Hello! I'm Faradaii. Currently, I am deeply involved in web and mobile development, with a primary focus on these areas, and I am committed to continuously learning and growing as a software developer.
 
 - 🔭   I’m currently studying at Bali State Polytechnic
 - 🌱   I’m currently learning React, Flutter;
-
 - 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/faradaii">Github</a>
 - 📫   Feel free to ping me on <a href="https://linkedin.com/in/kadek-faraday" target="_blank"> LinkedIn </a>
 
