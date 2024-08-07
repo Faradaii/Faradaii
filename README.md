@@ -25,4 +25,4 @@ Hello! I'm Faradaii. Currently, I am deeply involved in web and mobile developme
 </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Faradaii/Faradaii/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Faradaii/Faradaii/output/github-contribution-grid-snake.svg)
