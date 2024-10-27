@@ -20,8 +20,6 @@ Hello! I'm Faradaii. Currently, I am deeply involved in web and mobile developme
 <h1 align="center">Github Statistic</h1>
 <p align="center">
 <a href="https://github.com/Faradaii">
-   <span><a href="https://wakatime.com/@faradaii"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=faradaii&layout=compact&langs_count=6&theme=highcontrast" /></a></span>
-   <span><a href="https://github.com/faradaii?tab=repositories&q=&type=&language=&sort=stargazers"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=faradaii&show_icons=true&count_private=true&hide=contribs&theme=highcontrast" /></a></span>
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faradaii&theme=highcontrast&hide_border=false)"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faradaii&layout=compact&theme=highcontrast"/>
 </a>
