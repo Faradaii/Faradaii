@@ -13,7 +13,6 @@ Hello! I'm Faradaii. Currently, I am deeply involved in web and mobile developme
 **Reach Me on**
 
 <a href="https://linkedin.com/in/kadek-faraday" target="_blank"><img align="left" alt="Kadek Faraday | LinkedIn" width="30px" src="https://github.com/Faradaii/Faradaii/assets/114233356/193db9fe-0f22-4b42-8fc2-6ba31ef0dd59" /> </a>
-<a href="https://instagram.com/kfradai" target="_blank"><img align="left" alt="Faradaii | Dribbble" width="30px" src="https://github.com/Faradaii/Faradaii/assets/114233356/ac409bbf-7ae5-479b-9634-c570f5107c6d" /></a>
 <br />
 <br />
 <br/>
