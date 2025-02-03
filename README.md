@@ -6,9 +6,10 @@
 Hello! I'm Faradaii. Currently, I am deeply involved in web and mobile development, with a primary focus on these areas, and I am committed to continuously learning and growing as a software developer.
 
 - 🔭   I’m currently studying at Bali State Polytechnic
-- 🌱   I’m currently learning React, Flutter, Kotlin;
+- 🌱   I’m currently learning React Native, Flutter, Kotlin;
 - 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/faradaii">Github</a>
 - 📫   Feel free to ping me on <a href="https://linkedin.com/in/kadek-faraday" target="_blank"> LinkedIn </a>
+- 🧭   More detail about my projects are available on <a href="https://faradaii.vercel.app">Website</a>
 
 **Reach Me on**
 
