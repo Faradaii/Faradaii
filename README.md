@@ -20,7 +20,7 @@ Hello! I'm Faradaii. Currently, I am deeply involved in web and mobile developme
 <h1 align="center">Github Statistic</h1>
 <p align="center">
 <a href="https://github.com/Faradaii">
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faradaii&theme=highcontrast&hide_border=false)"/>
+   <img height="180em" src="https://github-readme-streak-stats-jade-xi.vercel.app/?user=Faradaii&theme=highcontrast&hide_border=false)"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faradaii&layout=compact&theme=highcontrast"/>
 </a>
 </p>
